@@ -1,3 +1,4 @@
+
 # 🏥 Healthcare Chatbot (Hindi/English/Hinglish)
 
 This is an AI-powered *Healthcare Chatbot* built using *Node.js*, capable of:
@@ -7,7 +8,7 @@ This is an AI-powered *Healthcare Chatbot* built using *Node.js*, capable of:
 - Smart suggestions while typing  
 - Clean UI (Gemini-style search bar)
 
----
+
 
 ## 🚀 Features
 ✔ 1000+ disease database  
@@ -18,6 +19,8 @@ This is an AI-powered *Healthcare Chatbot* built using *Node.js*, capable of:
 ✔ Fully responsive UI  
 ✔ No external API key required  
 
----
+
 
 ## 🗂 Project Structure
+
+
